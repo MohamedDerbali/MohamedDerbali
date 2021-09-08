@@ -11,7 +11,7 @@
 - 👀 I’m interested in Fullstack Javascript Developement
 - 🌱 I’m currently learning ReactJs/NextJs/NodeJs
 - 💞️ I’m looking to collaborate on Fullstack javascript Projects
-- 📫 How to reach me https://mohamed-eta.vercel.app/
+- 📫 How to reach me https://mohamed.vercel.app
 - 💬 Ask me about: anything, I am happy to help
 ## 🔥 My contribution streak
 
