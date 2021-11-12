@@ -17,8 +17,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/shadowmurderx/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmurderx#version3"/>
+  <a href="https://github.com/mohamedderbali/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedderbali#version3"/>
   </a>
 </p>
 
@@ -40,27 +40,27 @@
 
 <br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/shadowmurderx) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/shadowmurderx) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/shadowmurderx) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/shadowmurderx) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/mohamedderbali) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/mohamedderbali) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/mohamedderbali) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/mohamedderbali) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/shadowmurderx) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/shadowmurderx) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/shadowmurderx) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://github.com/shadowmurderx) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/mohamedderbali) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/mohamedderbali) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/mohamedderbali) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://github.com/mohamedderbali) 
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/shadowmurderx) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/shadowmurderx) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)](https://github.com/shadowmurderx) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/shadowmurderx) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/mohamedderbali) 
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/mohamedderbali) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)](https://github.com/mohamedderbali) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/mohamedderbali) 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/shadowmurderx) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/shadowmurderx) 
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/shadowmurderx) 
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/shadowmurderx) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/mohamedderbali) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/mohamedderbali) 
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/mohamedderbali) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/mohamedderbali) 
 
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/shadowmurderx) 
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/mohamedderbali) 
 
 
 ---
