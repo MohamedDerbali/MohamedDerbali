@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/shadowmurderx?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mohamedderbali?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🤝 Connect with me:
 
