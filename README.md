@@ -70,7 +70,7 @@
   
   
 
-  <img align="left" alt="shadowmurderx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shadowmurderx&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mohamed Derbali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedderbali&show_icons=true&hide_border=true" />
 
 
 
