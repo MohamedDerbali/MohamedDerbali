@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **mohamed.derbali@esprit.tn**
+- 📫 How to reach me **derbali_mohamed@outlook.com**
 
 - ⚡ Fun fact **I am Funny**
 
